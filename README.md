@@ -78,4 +78,4 @@ You should choose a name other than "bald-chicken.js".
     ![Finishing the pull request](https://github.com/yale-cpsc-113/CPSC113-madlibs/blob/main/images/pull3.png)
     If you need extra help, check this out [https://help.github.com/articles/using-pull-requests/](https://help.github.com/articles/using-pull-requests/) or just come see a TA.
 
-11) The instructor will merge in everybody's work. 
+11) The instructor will merge in everybody's work. Yay.
